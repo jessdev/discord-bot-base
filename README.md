@@ -1,5 +1,11 @@
-# among-us-bot
-[Invite Bot to Your Server](https://discord.com/api/oauth2/authorize?client_id=756652217825493053&permissions=67648&scope=bot)
+# Base for a Discord Bot
+This is a good starting point for anyone that wants to build a discord bot in typescript and use jest as a testing library.
+Make sure you update the following once you clone the repo:
+1. package.json name and descriptions
+2. The license
+3. This read me 
+
+To set up your bot for connecting to discord [go here](https://discord.com/developers/applications)
 
 # Running
 use the command `npm run start` to build and run the typescript project.
